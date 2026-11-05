@@ -1,0 +1,2 @@
+papá apaña
+Prueba de Huffman con tildes, ñ y espacios.

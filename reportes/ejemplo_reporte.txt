@@ -1,0 +1,44 @@
+==========================================================
+REPORTE DE COMPRESIÓN - ALGORITMO DE HUFFMAN
+==========================================================
+Archivo original:       ejemplo.txt
+Archivo comprimido:     ejemplo.huf
+Caracteres:             54
+Símbolos distintos:     25
+Tamaño original:        57 bytes
+Tamaño de cabecera:     205 bytes
+Tamaño de carga útil:   30 bytes
+Tamaño comprimido total:     235 bytes
+Tasa de compresión:     4.1228
+Entropía H:             4.2659 bits/carácter
+Longitud media L:       4.3148 bits/carácter
+Verificación:           IDÉNTICO
+
+TABLA DE CÓDIGOS
+Carácter        Frecuencia   Código
+------------------------------------------
+␣                        8   100
+a                        7   011
+e                        4   1100
+p                        4   1111
+s                        3   0100
+c                        2   10101
+d                        2   10110
+f                        2   10111
+i                        2   11010
+n                        2   11100
+o                        2   11101
+u                        2   0001
+ñ                        2   0011
+\n                       1   010100
+,                        1   010101
+.                        1   010110
+H                        1   010111
+P                        1   101000
+b                        1   101001
+l                        1   110110
+m                        1   110111
+r                        1   00000
+t                        1   00001
+y                        1   00100
+á                        1   00101
