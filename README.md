@@ -40,3 +40,10 @@ Los enteros de cabecera usan big-endian. La carga útil contiene bytes reales, n
 Se compara primero por frecuencia menor y, en caso de empate, por el menor carácter Unicode del subárbol. El primero extraído queda a la izquierda (`0`) y el segundo a la derecha (`1`). La cola de prioridad es propia; no se usa `heapq` ni `PriorityQueue`.
 
 Contempla archivos vacíos, un carácter, caracteres repetidos, tildes, ñ, Unicode, espacios, tabulaciones y saltos de línea.
+
+## Integrantes del equipo
+ 
+| Nombre | GitHub |
+|---|---|
+| Jhoan Rios | [@jhoan-rios](https://github.com/Jhoan-rios) |
+| Andrés Rosas | [@andres-rosas](https://github.com/andres-rosas) |
